@@ -1,5 +1,5 @@
 # PROJECT-27
-Which was a Telemetering transmitter from teh 1960's era book 103 Simple Transistor projects, by Thom Kietel
+Which was a Telemetering transmitter from the 1964 era book 103 Simple Transistor Projects, by Thom Kietel
 
 ![PROJECT-27]https://github.com/b-wave/PROJECT-27/blob/main/PROJECT27/PROJECT27_MKIII/BMP/103_Logo.bmp)
 103 Projects!
