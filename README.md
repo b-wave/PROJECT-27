@@ -1,5 +1,5 @@
 # PROJECT-27
-Which was a Telemetering transmitter from the 1964 era book 103 Simple Transistor Projects, by Thom Kietel  I grew up with this book.  THis was one of my bucket-list projects. Although I am not sure how i planned to send this device aloft.  I do remember trying to build it up with a CB radio ( it never oscillated) and some idea of helium baloons in a laundry bag! 
+Which was a Telemetering transmitter from the 1964 era book 103 Simple Transistor Projects, by Tom Knitel  I grew up with this book.  This was one of my bucket-list projects. Although I am not exactly sure how I planned to send this device aloft.  I do remember trying to build it up with a CB radio crystal and a few random transistors ( it never oscillated) and some vague idea of helium baloons in a laundry bag! 
 
 ![PROJECT-27](https://github.com/b-wave/PROJECT-27/blob/main/PROJECT27/PROJECT27_MKIII/BMP/103_Logo.bmp)
 103 Projects!
