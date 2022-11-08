@@ -4,7 +4,7 @@ Which was a Telemetering transmitter from the 1964 era book 103 Simple Transisto
 ![PROJECT-27](https://github.com/b-wave/PROJECT-27/blob/main/PROJECT27/PROJECT27_MKIII/BMP/103_Logo.bmp)
 103 Projects!
 
-I created two versions, MKI and MKIII which may actully be leagal to operate as a telemetering device on the 27MHz band.  MK1 is pretty much a copy of the original version.  MK3 is a modern version that features an LRD beacon, Tempuature (Tempuature-to-Frequency converter) and altitude (Pulse modulated).  
+I created two versions, MKI and MKIII which may actully be leagal to operate as a telemetering device on the 27MHz band.  MK1 is pretty much a copy of the original version.  MK3 is a modern version that features the same simple Tempuature (Tempuature-to-Frequency converter) and now includes an altitude channel (Pulse modulated) and even a bright LED beacon.  ( based on Project #25) 
 
 These files are "modern" versions of the 103 Simple Transistor Projects Book.   
 
