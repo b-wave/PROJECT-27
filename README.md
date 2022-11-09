@@ -17,6 +17,7 @@ The files here are "modern" versions of the **#27 Telemetering Transmitter**. Ba
 ![PROJECT-27](https://github.com/b-wave/PROJECT-27/blob/main/BMP/PROJECT27_MK1_3d.jpg)
 Telemetering Tranmiter Version MK1 3D View
 
+
 That's why the new Mk3 version.  It attempts to limit the time that the tone is transmitted and clean up the output to hopefully comply with the rules.  The original seems to rely on low power and the antenna length to limit the spurious emissions surely caused by a 3rd overtone crystal oscillator.  The timing circuit was implemented as another two-transistor multivibrator. Since it originally started life as a "Flashing beacon" in the same book -- I also added a high efficiency LED that produces a bright strobe beacon as well so it can be tracked and possibly help find it.  Since the strobes timing was arbitrarily set, I realized that that could be, in fact, controlled and a second channel of information could be transmitted by this pulse length.  I then constructed a 1960's technology version of an altimeter that is a simple sealed tube of air with a plunger attached to a slide potentiometer. I will add details of this device later. (Mk2 was a never completed high(er) power version)
 
 ![PROJECT-27](https://github.com/b-wave/PROJECT-27/blob/main/BMP/PROJECT27_MKIII_3d.jpg)
@@ -27,8 +28,9 @@ The original was intended to powered only by 1.5V AA cell.  Three volts would ac
 ![PROJECT-27](https://github.com/b-wave/PROJECT-27/blob/main/BMP/PROJECT27_MKIII_bottom.jpg)
 Tranmitter Version MK3 (Bottom 3D View)
 
+I doubt if this thing ever did fly on a balloon to or will my version but it was a fun pandemic project just to see it work. 
 
-
+Cheers!
 
 
  
