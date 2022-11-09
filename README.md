@@ -1,7 +1,7 @@
 # PROJECT-27
 Which was a Telemetering transmitter from the 1964 era book **103 Simple Transistor Projects**, by Tom Knitel  I grew up with this book.  This was one of my bucket-list projects. Although I am *not exactly sure* how I planned to send this device aloft.  I do remember trying to build it up with a CB radio crystal and a few random transistors ( it never oscillated) and some vague idea of 20 or so toy helium balloons in a laundry bag! Informaton is not transmitted digitally from this device either.  The RF is AM modulated and the frequency of the modulation is controlled by a thermistor.  Of course, this would need to be calibrated. 
 
-![PROJECT-27](https://github.com/b-wave/PROJECT-27/blob/main/PROJECT27/PROJECT27_MKIII/BMP/103_Logo.bmp)
+![PROJECT-27](https://github.com/b-wave/PROJECT-27/blob/main/PROJECT27Screenshot_20220221-113811_Google Play Books.jpg)
 
 103 Projects!
 
