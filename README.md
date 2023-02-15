@@ -31,8 +31,12 @@ Tranmitter Version MK3 (Bottom 3D View)
 I doubt if this thing ever did fly on a balloon to or will my version but it was a fun pandemic project just to see it work. 
 
 Circuit boards are availble on:
-https://oshpark.com/shared_projects/9dS7OwyD
-https://oshpark.com/shared_projects/ky8tt5KC
+
+MKI  Board: https://oshpark.com/shared_projects/9dS7OwyD
+
+MKII Board:  **Never Finished** 
+
+MKIII Board: https://oshpark.com/shared_projects/ky8tt5KC
 
 
 Cheers!
